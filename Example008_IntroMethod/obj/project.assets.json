@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\Examples\\HelloCode\\Example008_Intro\\Example008_Intro.csproj",
-      "projectName": "Example008_Intro",
-      "projectPath": "C:\\Users\\HP\\Desktop\\Examples\\HelloCode\\Example008_Intro\\Example008_Intro.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\Examples\\HelloCode\\Example008_IntroMethod\\Example008_IntroMethod.csproj",
+      "projectName": "Example008_IntroMethod",
+      "projectPath": "C:\\Users\\HP\\Desktop\\Examples\\HelloCode\\Example008_IntroMethod\\Example008_IntroMethod.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\Examples\\HelloCode\\Example008_Intro\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\Examples\\HelloCode\\Example008_IntroMethod\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

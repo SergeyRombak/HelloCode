@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GbOPLjUYito1NjijMeol2QcMabqnjbPSZBInGdoL93xISxZhrfDg+ldNM7Ru5+1Fij0av2pYeN71qNJCM0vDrA==",
+  "dgSpecHash": "5W+/uHLXiJ05cHlltEC36dMdhhMtrPKOlQi0IO54R+XXT7VqMCwE3WYrV0pJsFxbTjyym/RciviOKNtkDLQ30A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\DZ\\HelloCode\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Examples\\HelloCode\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
